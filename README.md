@@ -34,10 +34,7 @@ Installation
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/youtube-data-harvesting.git
-cd youtube-data-harvesting
+
 
 Install the required Python packages:
 
